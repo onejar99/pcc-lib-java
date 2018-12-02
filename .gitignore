@@ -3,7 +3,16 @@ RemoteSystemsTempFiles
 .metadata
 .recommenders
 .sonarlint
+PccLib_Parent/.project
+PccLib_Parent/.settings
+PccLib_Utils/.project
+PccLib_Utils/.settings
+PccLib_Utils/.classpath
 PccLib_Utils/bin
 PccLib_Utils/target
+PccLib_Utils/.classpath
+PccLib_Practices/.project
+PccLib_Practices/.settings
+PccLib_Practices/.classpath
 PccLib_Practices/bin
 PccLib_Practices/target
