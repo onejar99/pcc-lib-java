@@ -1,0 +1,9 @@
+RemoteSystemsTempFiles
+.DS_Store
+.metadata
+.recommenders
+.sonarlint
+PccLib_Utils/bin
+PccLib_Utils/target
+PccLib_Practices/bin
+PccLib_Practices/target
