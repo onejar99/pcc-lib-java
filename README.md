@@ -12,7 +12,7 @@ My Java utility libraries.
 | Library          | Description                              |
 | ---------------- | ---------------------------------------- |
 | PccLib_Utils     | Various utility APIs.                    |
-| PccLib_Practices | Some small scale practices.                    |
+| PccLib_Practices | Some small scale practices.              |
 | PccLib_Parent    | Used to be a parent of other projects for sharing packages. |
 
 
@@ -29,11 +29,12 @@ My Java utility libraries.
 
 ### Utility List
 
-| Utility Name    | API Docs | Remark                                   |
-| --------------- | -------- | ---------------------------------------- |
-| [ReflectionUtil](./PccLib_Utils/src/com/pcc/utils/reflection)  | [APIs](./API_Docs/API_Doc_ReflectionUtil.md)     | 包含使用範例：取得類別泛型參數的類別繼承 & 取得類別宣告屬性(含繼承自父類別) |
-| [CommonArrayUtil](./PccLib_Utils/src/com/pcc/utils/common) | [APIs](./API_Docs/API_Doc_CommonArrayUtil.md)     |                                          |
-| [CommonListUtil](./PccLib_Utils/src/com/pcc/utils/common)  | [APIs](./API_Docs/API_Doc_CommonListUtil.md)     |                                          |
+| Utility Name                             | API Docs                                 | Remark                                   |
+| ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
+| [ReflectionUtil](./PccLib_Utils/src/com/pcc/utils/reflection) | [APIs](./API_Docs/API_Doc_ReflectionUtil.md) | 包含使用範例：取得類別泛型參數的類別繼承 & 取得類別宣告屬性(含繼承自父類別) |
+| [CommonArrayUtil](./PccLib_Utils/src/com/pcc/utils/common) | [APIs](./API_Docs/API_Doc_CommonArrayUtil.md) |                                          |
+| [CommonListUtil](./PccLib_Utils/src/com/pcc/utils/common) | [APIs](./API_Docs/API_Doc_CommonListUtil.md) |                                          |
+| [JsonUtil](./PccLib_Utils/src/com/pcc/utils/json) | [APIs](./API_Docs/API_Doc_JsonUtil.md)   | 使用  `com.fasterxml.jackson`              |
 
 
 
