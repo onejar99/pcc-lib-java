@@ -32,8 +32,8 @@ My Java utility libraries.
 | Utility Name    | API Docs | Remark                                   |
 | --------------- | -------- | ---------------------------------------- |
 | [ReflectionUtil](./PccLib_Utils/src/com/pcc/utils/reflection)  | [APIs](./API_Docs/API_Doc_ReflectionUtil.md)     | 包含使用範例：取得類別泛型參數的類別繼承 & 取得類別宣告屬性(含繼承自父類別) |
-| [CommonArrayUtil](./PccLib_Utils/src/com/pcc/utils/common) | [APIs](./API_Docs/API_Doc_CommonArrayUtil.md.md)     |                                          |
-| [CommonListUtil](./PccLib_Utils/src/com/pcc/utils/common)  | [APIs](./API_Docs/API_Doc_CommonListUtil.md.md)     |                                          |
+| [CommonArrayUtil](./PccLib_Utils/src/com/pcc/utils/common) | [APIs](./API_Docs/API_Doc_CommonArrayUtil.md)     |                                          |
+| [CommonListUtil](./PccLib_Utils/src/com/pcc/utils/common)  | [APIs](./API_Docs/API_Doc_CommonListUtil.md)     |                                          |
 
 
 
