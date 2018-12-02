@@ -25,7 +25,7 @@
 		<apacheCommonsIo.version>2.4</apacheCommonsIo.version>
 		<apacheCommonsLogging.version>1.2</apacheCommonsLogging.version>
 		<junit.version>4.11</junit.version>
-		<jackson.version>2.8.3</jackson.version>
+		<jackson.version>2.9.7</jackson.version>
 		<mockito.version>1.10.19</mockito.version>
 		<mysql.version>5.1.6</mysql.version>
 		<log4j.version>1.2.17</log4j.version>
